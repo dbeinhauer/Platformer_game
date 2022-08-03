@@ -1,0 +1,6 @@
+8 3
+########
+#.Q.P..#
+########
+
+Not known symbol -> end program

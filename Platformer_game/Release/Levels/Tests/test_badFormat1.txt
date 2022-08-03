@@ -1,0 +1,6 @@
+9
+#########
+#...P...#
+#########
+
+Missing number of rows -> end the program

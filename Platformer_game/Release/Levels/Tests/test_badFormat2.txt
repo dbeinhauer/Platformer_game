@@ -1,0 +1,6 @@
+9 3
+########
+#...P..#
+########
+
+Bad number of columns -> end program
