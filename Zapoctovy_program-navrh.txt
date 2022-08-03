@@ -1,0 +1,14 @@
+Téma: Modifikace Hry Super Mario
+
+Popis:
+Program bude obdobou hry Super Mario. Jedná se o 2D skákací hru s cílem hráče
+dorazit do cíle s co největším počtem bodů. Během této cesty se snaží 
+nasbírat co největší množství peněz (bodů) umístěných v hracím poli. A musí se
+také vypořádat s překážkami v podobě pevných bloků, děr v hrací ploše
+a nepřátel. Hráč má navíc pouze omezený počet životů a po jejichž vyplýtvání
+hra končí.
+
+Navíc pokud nepřítel A omylem zasáhne jiného nepřítele B (hráč se vyhne), pak
+nepřítel B oplatí nepříteli A zásah (silnějším) výstřelem směrem k A. Pokud 
+se takovým výstřelem trefí do jiného protivníka, pak jej zničí (libovolného
+protivníka, ne nutně A) a protivník z hracího pole zmizí.
